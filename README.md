@@ -5,8 +5,8 @@ Screenshots
 
 ![1](https://user-images.githubusercontent.com/48117812/87765045-248af900-c839-11ea-984b-114dcf06036c.png)
 
-#Sample-1
-#Recognnizing large text...
+Sample-1(Recognnizing large text...)
+
 ![2](https://user-images.githubusercontent.com/48117812/87765086-35d40580-c839-11ea-8f3c-899d1b931852.png)
 
 ![3](https://user-images.githubusercontent.com/48117812/87765145-45ebe500-c839-11ea-878d-90626107de2f.png)
@@ -21,6 +21,7 @@ Screenshots
 
 #Sample-2
 Recognizing simple text...
+
 ![8](https://user-images.githubusercontent.com/48117812/87765282-73389300-c839-11ea-8d2b-6a6ac777de88.png)
 
 ![9](https://user-images.githubusercontent.com/48117812/87765291-75025680-c839-11ea-8d08-485a699d9ad9.png)
