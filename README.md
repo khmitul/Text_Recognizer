@@ -5,9 +5,9 @@ Screenshots
 
 ![1](https://user-images.githubusercontent.com/48117812/87765045-248af900-c839-11ea-984b-114dcf06036c.png)
 
+#Sample-1
 ![2](https://user-images.githubusercontent.com/48117812/87765086-35d40580-c839-11ea-8f3c-899d1b931852.png)
 
-#Sample-1
 ![3](https://user-images.githubusercontent.com/48117812/87765145-45ebe500-c839-11ea-878d-90626107de2f.png)
 
 ![4](https://user-images.githubusercontent.com/48117812/87765207-5bf9a580-c839-11ea-9ba5-8b4508f99393.png)
