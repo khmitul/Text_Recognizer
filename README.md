@@ -27,11 +27,13 @@ Sample-2(Recognizing simple text...)
 
 ![10](https://user-images.githubusercontent.com/48117812/87765295-76338380-c839-11ea-8999-487977b5cd85.png)
 
+Sample-3(Recognizing text from signboard...)
+
 ![11](https://user-images.githubusercontent.com/48117812/87765299-76cc1a00-c839-11ea-8d95-278b3153951f.png)
 
 ![12](https://user-images.githubusercontent.com/48117812/87765304-7764b080-c839-11ea-8a9b-0b8a61765186.png)
 
-Sample-3(Recognizing visiting card information...)
+Sample-4(Recognizing visiting card information...)
 
 ![13](https://user-images.githubusercontent.com/48117812/87765308-77fd4700-c839-11ea-86a1-09d52b4424f7.png)
 
