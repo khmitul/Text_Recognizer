@@ -1,40 +1,30 @@
 # Text_Recognizer
 Screenshots
 
-![splash screen](https://user-images.githubusercontent.com/48117812/87771848-b9462480-c842-11ea-9129-9f3a76b25194.png)
-
-![1](https://user-images.githubusercontent.com/48117812/87772409-86506080-c843-11ea-857a-7c28180c02da.png)
-
-![2](https://user-images.githubusercontent.com/48117812/87765086-35d40580-c839-11ea-8f3c-899d1b931852.png)
+![splash screen](https://user-images.githubusercontent.com/48117812/87774234-18f1ff00-c846-11ea-944f-b5a1caa852fb.png)
+![1](https://user-images.githubusercontent.com/48117812/87774236-18f1ff00-c846-11ea-8c8e-1eb593218d19.png)
+![2](https://user-images.githubusercontent.com/48117812/87774237-198a9580-c846-11ea-927e-fe1b7118ef40.png)
 
 Sample-1(Recognnizing large text...)
 
-![3](https://user-images.githubusercontent.com/48117812/87765145-45ebe500-c839-11ea-878d-90626107de2f.png)
-
-![4](https://user-images.githubusercontent.com/48117812/87765207-5bf9a580-c839-11ea-9ba5-8b4508f99393.png)
-
-![5](https://user-images.githubusercontent.com/48117812/87765314-792e7400-c839-11ea-80a4-b735c2666010.png)
-
-![6](https://user-images.githubusercontent.com/48117812/87765323-79c70a80-c839-11ea-9688-0c4d107cc7e5.png)
-
-![7](https://user-images.githubusercontent.com/48117812/87765325-7a5fa100-c839-11ea-8782-f8038ff385e6.png)
-
-![8](https://user-images.githubusercontent.com/48117812/87765282-73389300-c839-11ea-8d2b-6a6ac777de88.png)
+![3](https://user-images.githubusercontent.com/48117812/87774239-1a232c00-c846-11ea-952b-64fd5828a5e9.png)
+![4](https://user-images.githubusercontent.com/48117812/87774243-1abbc280-c846-11ea-832f-de1d14616971.png)
+![5](https://user-images.githubusercontent.com/48117812/87774245-1abbc280-c846-11ea-832a-6e626d114542.png)
+![6](https://user-images.githubusercontent.com/48117812/87774246-1b545900-c846-11ea-896e-fcaaecd571c6.png)
+![7](https://user-images.githubusercontent.com/48117812/87774212-1394b480-c846-11ea-8ad5-149c4169595b.png)
+![8](https://user-images.githubusercontent.com/48117812/87774219-155e7800-c846-11ea-8e68-278c2fdc6563.png)
 
 Sample-2(Recognizing simple text...)
 
-![9](https://user-images.githubusercontent.com/48117812/87765291-75025680-c839-11ea-8d08-485a699d9ad9.png)
-
-![10](https://user-images.githubusercontent.com/48117812/87765295-76338380-c839-11ea-8999-487977b5cd85.png)
+![9](https://user-images.githubusercontent.com/48117812/87774220-15f70e80-c846-11ea-8109-d2524b35d5ab.png)
+![10](https://user-images.githubusercontent.com/48117812/87774223-168fa500-c846-11ea-8c52-1924bf4f866a.png)
 
 Sample-3(Recognizing text from signboard...)
 
-![11](https://user-images.githubusercontent.com/48117812/87765299-76cc1a00-c839-11ea-8d95-278b3153951f.png)
-
-![12](https://user-images.githubusercontent.com/48117812/87765304-7764b080-c839-11ea-8a9b-0b8a61765186.png)
+![11](https://user-images.githubusercontent.com/48117812/87774227-168fa500-c846-11ea-8dae-ffe7a88f6048.png)
+![12](https://user-images.githubusercontent.com/48117812/87774230-17283b80-c846-11ea-9531-1b36fbaf86b6.png)
 
 Sample-4(Recognizing visiting card information...)
 
-![13](https://user-images.githubusercontent.com/48117812/87765308-77fd4700-c839-11ea-86a1-09d52b4424f7.png)
-
-![14](https://user-images.githubusercontent.com/48117812/87765312-7895dd80-c839-11ea-8f0d-efd86a2f9aea.png)
+![13](https://user-images.githubusercontent.com/48117812/87774231-17c0d200-c846-11ea-8d2f-4e8f2fc657d0.png)
+![14](https://user-images.githubusercontent.com/48117812/87774233-18596880-c846-11ea-859d-824b49c29b47.png)
