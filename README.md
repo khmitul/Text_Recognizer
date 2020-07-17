@@ -3,7 +3,8 @@ Screenshots
 
 ![splash screen](https://user-images.githubusercontent.com/48117812/87771848-b9462480-c842-11ea-9129-9f3a76b25194.png)
 
-![1](https://user-images.githubusercontent.com/48117812/87765045-248af900-c839-11ea-984b-114dcf06036c.png)
+![1](https://user-images.githubusercontent.com/48117812/87772095-1215bd00-c843-11ea-9a81-69e87054c653.png)
+
 
 ![2](https://user-images.githubusercontent.com/48117812/87765086-35d40580-c839-11ea-8f3c-899d1b931852.png)
 
