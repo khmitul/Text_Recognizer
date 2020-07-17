@@ -1,7 +1,7 @@
 # Text_Recognizer
 Screenshots
 
-![splash screen](https://user-images.githubusercontent.com/48117812/87764556-6c5d5080-c838-11ea-8d96-918accecef30.png)
+![splash screen](https://user-images.githubusercontent.com/48117812/87771848-b9462480-c842-11ea-9129-9f3a76b25194.png)
 
 ![1](https://user-images.githubusercontent.com/48117812/87765045-248af900-c839-11ea-984b-114dcf06036c.png)
 
